@@ -1,1 +1,3 @@
-# journal For personal usage
+# journal 
+
+For personal usage
